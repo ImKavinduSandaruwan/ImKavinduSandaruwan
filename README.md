@@ -1,4 +1,4 @@
-### Hi there 👋 Im Kavindu Sandaruwan
+### Hi there Im Kavindu Sandaruwan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="24px" width="24px">
 
 - 🔭 I’m currently studying on ... Informatics Institute of Technology (IIT) 
 - 🌱 I’m currently learning ... Software Engineering
@@ -7,7 +7,10 @@
 - 💬 Ask me about anything, I am happy to help...
 - 😄 Pronouns: ... Shaggy
 - ⚡ Fun fact: ... Cricket lover
-<img src="https://cdn.columbiauniversitybootcamp.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2.jpg" width="1000" height="500">                       
+<p align="center">
+<img src="https://cdn.columbiauniversitybootcamp.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2.jpg" width="1000" height="500">>
+<div align="center">
+</div>              
 
 <p align="center">
 	<a href="https://www.youtube.com/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-CASPER-red?style=for-the-badge&logo=Youtube"></a>
