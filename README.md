@@ -15,11 +15,7 @@
 	<a href="https://www.faceboo3081269/?ref=share"><img title="Facebook Group" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
 	<a href="https://www.facebodroidD/"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 </p>
-<!--
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/RazorKenway)
-- [![GitHub followers](https://img.shields.io/github/followers/RazorKenway.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RazorKenway?tab=followers)
--->
+
 <p align="left">
 <img width="40%" align="left" src="Developer.gif">
 </p>
@@ -43,3 +39,4 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
