@@ -8,7 +8,7 @@
 - 😄 Pronouns: ... Shaggy
 - ⚡ Fun fact: ... Cricket lover
 <p align="center">
-<img src="https://cdn.columbiauniversitybootcamp.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2.jpg" width="1000" height="500">>
+<img src="209037.gif" width="600" height="300">
 <div align="center">
 </div>              
 
