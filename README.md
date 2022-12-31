@@ -8,7 +8,7 @@
 - 😄 Pronouns: ... Shaggy
 - ⚡ Fun fact: ... Cricket lover
 <p align="center">
-<img src="209037.gif" width="600" height="300">
+<img src="209037.gif" width="800" height="300">
 <div align="center">
 </div>              
 
