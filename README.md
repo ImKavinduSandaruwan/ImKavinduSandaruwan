@@ -38,14 +38,14 @@
 <p align="center"><a href="https://github.com/ImKavinduSandaruwan"><img src="https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/ImKavindu-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/kkk"><img title="YouTube" src="https://img.shields.io/badge/YouTube-ImKavindu-red?style=for-the-badge&logo=Youtube"></a>
+<img title="YouTube" src="https://img.shields.io/badge/ImKavindu-brightgreen?style=for-the-badge&logo=github"></a>
+<img title="YouTube" src="https://img.shields.io/badge/YouTube-ImKavindu-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <p align="center">
 <a href="https://github.com/ImKavinduSandaruwan/Password-Gen"><img title="Password-Gen" src="https://github-readme-stats.vercel.app/api/pin/?username=ImKavinduSandaruwan&repo=Password-Gen&theme=radical"></a>
