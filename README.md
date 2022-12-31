@@ -45,6 +45,12 @@
 
 <p align="center"><a href="https://github.com/ImKavinduSandaruwan"><img src="https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
+<p align="center">
+<a href="https://github.com/ImKavinduSandaruwan/Password-Gen"><img title="Password-Gen" src="https://github-readme-stats.vercel.app/api/pin/?username=ImKavinduSandaruwan&repo=Password-Gen&theme=radical"></a>
+<a href="https://github.com/ImKavinduSandaruwan/YouTube-Downloader-V-1.0"><img title="YouTube-Downloader-V-1.0" src="https://github-readme-stats.vercel.app/api/pin/?username=ImKavinduSandaruwan&repo=YouTube-Downloader-V-1.0&theme=highcontrast"></a>
+<a href="https://github.com/ImKavinduSandaruwan/My-Cal-V-1.0"><img title="My-Cal-V-1.0" src="https://github-readme-stats.vercel.app/api/pin/?username=ImKavinduSandaruwan&repo=My-Cal-V-1.0&theme=vision-friendly-dark"></a>
+<a href="https://github.com/ImKavinduSandaruwan/MasterMind-game"><img title="MasterMind-game" src="https://github-readme-stats.vercel.app/api/pin/?username=ImKavinduSandaruwan&repo=MasterMind-game&theme=highcontrast"></a>
+</p>
 
 <p align="center">
 <a href="https://github.com/ImKavinduSandaruwan"><img title="Kavindu-Sandaruwan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKavinduSandaruwan&layout=compact"></a>
