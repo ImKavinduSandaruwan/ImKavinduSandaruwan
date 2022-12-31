@@ -55,5 +55,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ImKavinduSandaruwan"><img title="Kavindu-Sandaruwan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKavinduSandaruwan&layout=compact"></a>
+<a href="https://github.com/ImKavinduSandaruwan"><img title="Kavindu-Sandaruwan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKavinduSandaruwan&langs_count=8"></a>
 </p>
+
