@@ -42,5 +42,6 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"><a href="https://github.com/ImKavinduSandaruwan"><img src="https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
