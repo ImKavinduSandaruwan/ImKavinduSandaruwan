@@ -12,14 +12,6 @@
 <div align="center">
 </div>              
 
-<p align="center">
-	<a href="https://www.youtube.com/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-CASPER-red?style=for-the-badge&logo=Youtube"></a>
-	<a href="https://t.me/joincha2d-lboeaueg"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-	<a href="https://www.faceboo3081269/?ref=share"><img title="Facebook Group" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
-	<a href="https://www.facebodroidD/"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
-</p>
-
-<p align="left">
 <img width="40%" align="left" src="Developer.gif">
 </p>
 
@@ -42,9 +34,19 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>
-
+### KNOW MORE ABOUT ME>>>>
 <p align="center"><a href="https://github.com/ImKavinduSandaruwan"><img src="https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
+<p align="center">
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/ImKavindu-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-ImKavindu-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+<p align="center">
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<p align="center">
 <p align="center">
 <a href="https://github.com/ImKavinduSandaruwan/Password-Gen"><img title="Password-Gen" src="https://github-readme-stats.vercel.app/api/pin/?username=ImKavinduSandaruwan&repo=Password-Gen&theme=radical"></a>
 <a href="https://github.com/ImKavinduSandaruwan/YouTube-Downloader-V-1.0"><img title="YouTube-Downloader-V-1.0" src="https://github-readme-stats.vercel.app/api/pin/?username=ImKavinduSandaruwan&repo=YouTube-Downloader-V-1.0&theme=highcontrast"></a>
