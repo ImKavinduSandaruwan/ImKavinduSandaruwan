@@ -45,3 +45,7 @@
 
 <p align="center"><a href="https://github.com/ImKavinduSandaruwan"><img src="https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
+
+<p align="center">
+<a href="https://github.com/ImKavinduSandaruwan"><img title="Kavindu-Sandaruwan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKavinduSandaruwan&layout=compact"></a>
+</p>
