@@ -39,7 +39,7 @@
 </p>
 <p align="center">
 <a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/ImKavindu-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-ImKavindu-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/kkk"><img title="YouTube" src="https://img.shields.io/badge/YouTube-ImKavindu-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
