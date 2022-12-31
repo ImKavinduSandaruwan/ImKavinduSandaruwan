@@ -1,5 +1,4 @@
 ### Hi there Im Kavindu Sandaruwan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="24px" width="24px">
-
 - 🔭 I’m currently studying on ... Informatics Institute of Technology (IIT) 
 - 🌱 I’m currently learning ... Software Engineering
 - 👯 I'm interesting in ... Programming, Cybersecurity and Ethical Hacking
@@ -7,6 +6,7 @@
 - 💬 Ask me about anything, I am happy to help...
 - 😄 Pronouns: ... Shaggy
 - ⚡ Fun fact: ... Cricket lover
+
 <p align="center">
 <img src="209037.gif" width="800" height="300">
 <div align="center">
