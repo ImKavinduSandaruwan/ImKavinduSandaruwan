@@ -7,10 +7,10 @@
 <h4 align='center' >From Sri Lanka</h4>
 <hr>
 <p align="center">
-    <a href="https://www.linkedin.com" target="_blank"><img align="center"
+    <a href="www.linkedin.com/in/kavindu-sandaruwan-b897aa22b" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="VAIBHAV" height="30" width="40" /></a>
-    <a href="https://www.instagram.com" target="_open"><img align="center"
+    <a href="https://www.instagram.com/__im_shaggy__/" target="_open"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="vaibhzz101 height="30" width="40" /></a>
     <a href="https://twitter.com" target="blank"><img align="center"
