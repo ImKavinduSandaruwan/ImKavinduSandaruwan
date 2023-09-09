@@ -49,7 +49,7 @@
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/ImKavinduSandaruwan)
 
-- ⚡ Fun fact **Finish your project before world ends**
+- ⚡ Fun fact **Finish your project before the end of the world**
 
 
 <br> 
