@@ -3,7 +3,7 @@
 </div>   
    
 <h1 align="center">Hello 👋, I'm KAVINDU SANDARUWAN 👨‍💻</h1>
-<h3 align="center">A Mobile Application Developer & Web Developer</h3>
+<h3 align="center">A Mobile Application Developer & Machine Learning Developer</h3>
 <h4 align='center' >From Sri Lanka</h4>
 <hr>
 <p align="center">
