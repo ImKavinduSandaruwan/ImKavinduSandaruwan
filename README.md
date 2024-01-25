@@ -33,11 +33,11 @@
 
 ### Hi there, Im Kavindu Sandaruwan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="24px" width="24px">
 
-- 🔭 I’m a **Web and Mobile Application Developer**
+- 🔭 I’m a **Machine Learning and Mobile Application Developer**
 
 - 🌱 I’m currently studying **Software Engineering at University of Westminster**
 
-- 💬 Ask me about **Python, Java, C++, C#, CyberSecurity, HTML, CSS, JS, MongoDB, Kotlin, React**
+- 💬 Ask me about **Python, Java, C++, C#, CyberSecurity, MongoDB, Kotlin, React Native, Flutter, Objective C, Swift**
 
 - 📫 How to reach me
  **kavinduy6p@gmail.com**
