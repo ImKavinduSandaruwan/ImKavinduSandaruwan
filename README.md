@@ -43,7 +43,7 @@
  **kavinduy6p@gmail.com**
  **Facebook, Insta, Tweet, Medium**
 
-- 🌏 Visit to my <a href="imkavindu.live">Portfolio</a>
+- 🌏 Visit to my <a href="https://imkavindu.live/">Portfolio</a>
 
 - 📃 Look at my [Resume]() 
 
