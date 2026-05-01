@@ -3,7 +3,7 @@
 </div>   
    
 <h1 align="center">Hello 👋, I'm KAVINDU SANDARUWAN 👨‍💻</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">AI/ML and Mobile Engineer</h3>
 <h4 align='center' >From Sri Lanka</h4>
 <hr>
 <p align="center">
@@ -35,9 +35,9 @@
 
 - 🔭 I’m a **Machine Learning and Mobile Application Developer**
 
-- 🌱 I have completed my **oftware Engineering degree at the University of Westminster**
+- 🌱 I have completed my **Software Engineering degree at the University of Westminster**
 
-- 💬 Ask me about **Software Development, Mobile Application Development, Machine Learning, Software Design, Architecture, Devops, Product Development**
+- 💬 Ask me about **Software Development, Mobile Application Development, AIML, Software Design, Architecture, Product Development**
 
 - 📫 How to reach me
  **kavinduy6p@gmail.com**
