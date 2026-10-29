@@ -1,71 +1,139 @@
-<div align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>   
-   
-<h1 align="center">Hello 👋, I'm KAVINDU SANDARUWAN 👨‍💻</h1>
-<h3 align="center">AI/ML and Mobile Engineer</h3>
-<h4 align='center' >From Sri Lanka</h4>
-<hr>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-    <a href="http://www.linkedin.com/in/kavindu-sandaruwan-b897aa22b" target="_blank"><img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="VAIBHAV" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/__im_shaggy__/" target="_open"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="vaibhzz101 height="30" width="40" /></a>
-    <a href="https://twitter.com" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="vaibhav" height="30" width="40" /></a>
-    <a href="https://www.facebook.com" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="vaibhzz" height="30" width="40" /></a>
-    <a href="https://medium.com" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@vaibhzz101" height="30" width="40" /></a>
-    <a href="https://www.youtube.com" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="Vaibhav Shevne height="30" width="40" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=200&section=header&text=Kavindu%20Sandaruwan&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Building%20AI%20that%20doesn't%20just%20answer%20%E2%80%94%20it%20acts.&descSize=16&descAlignY=58" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
-                      alt="vaibhav" />
-    </p>
-    </br>
-
-### Hi there, Im Kavindu Sandaruwan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="24px" width="24px">
-
-- 🔭 I’m a **Machine Learning and Mobile Application Developer**
-
-- 🌱 I have completed my **Software Engineering degree at the University of Westminster**
-
-- 💬 Ask me about **Software Development, Mobile Application Development, AIML, Software Design, Architecture, Product Development**
-
-- 📫 How to reach me
- **kavinduy6p@gmail.com**
- **Facebook, Insta, Tweet, Medium**
-
-- 🌏 Visit to my <a href="https://imkavindu.live/">Portfolio</a>
-
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/ImKavinduSandaruwan)
-
-- ⚡ Fun fact **Finish your project before the end of the world**
-
-
-<br> 
-<p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhzz101&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
 <p align="center">
-    <a href="[https://github.com/ImKavinduSandaruwan](https://github.com/ImKavinduSandaruwan)">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=ImKavinduSandaruwan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-    </a>
+  <a href="https://github.com/ImKavinduSandaruwan">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=CEO+%26+Founder+%40+Noob+AI+%2B+Noob+Dev;Chief+Solution+Architect;Agentic+AI+%E2%80%A2+LLMs+%E2%80%A2+Multi-Agent+Systems;Chairperson+%40+CeylonVally;Teaching+Sri+Lanka+to+build+with+AI+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://www.linkedin.com/in/kavindu-sandaruwan-b897aa22b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://imkavindu.live/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://noobdevs.online"><img src="https://img.shields.io/badge/Noob%20Dev-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="mailto:kavinduy6p@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ImKavinduSandaruwan&label=Profile%20views&color=7C3AED&style=for-the-badge" />
+</p>
+
+---
+
+### `> whoami`
+
+```python
+from agents import Agent
+
+class KavinduSandaruwan(Agent):
+    """Founder. Architect. Teacher. Builds AI systems that plan, use tools, and ship."""
+
+    location = "Sri Lanka 🇱🇰"
+
+    roles = {
+        "Noob AI":     "CEO, Founder & Chief Solution Architect",  # native AI company
+        "Noob Dev":    "CEO, Founder & Lead Instructor",           # AI-first EdTech
+        "CeylonVally": "Chairperson",
+    }
+
+    education = [
+        "MPhil — Artificial Intelligence & Data Science",
+        "BEng (Hons) — Software Engineering, University of Westminster",
+    ]
+
+    tools = ["LLMs", "tool calling", "RAG", "multi-agent systems", "ML/DL", "MLOps", "full-stack"]
+
+    def run(self, problem: str) -> str:
+        plan = self.reason(problem)
+        return self.act(plan, tools=self.tools)   # then teach 1,000 others how
+
+    @property
+    def mission(self):
+        return "Build AI products in Sri Lanka — for the world."
+```
+
+---
+
+### 🧠 What I Build
+
+| | Area | Focus |
+|---|---|---|
+| 🤖 | **Agentic AI** | Tool-calling agents, multi-agent orchestration, memory, planning & evaluation |
+| 📚 | **LLM Engineering** | RAG pipelines, prompt & context engineering, fine-tuning, guardrails |
+| 📈 | **Machine Learning** | Classical ML → deep learning → production models with real data |
+| 🏗️ | **Solution Architecture** | AI-native products end to end — backend, frontend, cloud, deployment |
+| 🎓 | **AI Education** | Cohort programs turning students & professionals into AI engineers |
+
+---
+
+### 🌐 The Ecosystem I'm Building
+
+```mermaid
+graph LR
+    K((Kavindu)) --> AI["🧠 Noob AI<br/>Native AI company"]
+    K --> ND["🎓 Noob Dev<br/>AI EdTech"]
+    K --> CV["🏛️ CeylonVally<br/>Chairperson"]
+
+    ND --> A["Certified AI & Agentic<br/>Engineering Professional"]
+    ND --> B["Certified Advanced<br/>AI/ML Engineer"]
+    ND --> C["Certified ML<br/>Engineer 3.0"]
+    ND --> D["Corporate AI<br/>Training"]
+    ND --> E["🧒 Noob Kids<br/>Grades 6–9"]
+    ND --> F["🎮 Model Play<br/>Browser ML playground"]
+    E --> G["🧩 Noob Kids Studio<br/>Drag-and-drop builder"]
+```
+
+---
+
+### ⚡ Right Now
+
+- 🤖 Teaching engineers to build **production-grade AI agents** — from a single tool call to multi-agent systems
+- 🧪 Shipping **Model Play**, a browser-based platform to practise machine learning hands-on
+- 🏢 Rolling out **AI training for companies** and their teams
+- 🌱 Growing Noob Dev from a training company into a **product-led AI company**
+
+---
+
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,java,spring,ts,react,nodejs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,docker,aws,azure,gcp,firebase,postgres,mongodb,git,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-7C3AED?style=flat-square&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Pulse
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKavinduSandaruwan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
 </p>
 <p align="center">
-    <a href="https://github.com/ImKavinduSandaruwan"><img alt="Kavindu's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=ImKavinduSandaruwan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-     </a>
-</p>   
+  <img src="https://streak-stats.demolab.com?user=ImKavinduSandaruwan&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImKavinduSandaruwan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=1F6FEB&point=FFFFFF" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 🤝 Let's Talk
 
+Building something with AI agents? Want your team trained in AI? Looking to collaborate in Sri Lanka's AI scene?
+**Reach out — I reply to builders.**
+
+> 💡 *"Old me: finish your project before the end of the world. Current me: build an agent that finishes it for you."*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1F6FEB,100:0D1117&height=110&section=footer" />
+</p>
